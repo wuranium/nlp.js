@@ -1,15 +1,9 @@
-<div align="center">
-<img src="https://github.com/axa-group/nlp.js/raw/master/screenshots/nlplogo.gif" width="925" height="auto"/>
-</div>
-
-# NLP.js
-
 [![Build Status](https://travis-ci.com/axa-group/nlp.js.svg?branch=master)](https://travis-ci.com/axa-group/nlp.js)
 [![Coverage Status](https://coveralls.io/repos/github/axa-group/nlp.js/badge.svg?branch=master)](https://coveralls.io/github/axa-group/nlp.js?branch=master)
 [![NPM version](https://img.shields.io/npm/v/node-nlp.svg?style=flat)](https://www.npmjs.com/package/node-nlp)
 [![NPM downloads](https://img.shields.io/npm/dm/node-nlp.svg?style=flat)](https://www.npmjs.com/package/node-nlp) [![Greenkeeper badge](https://badges.greenkeeper.io/axa-group/nlp.js.svg)](https://greenkeeper.io/)
 
-"NLP.js" is a general natural language utilities for nodejs. Currently supporting:
+This repo is a general natural language utilities for nodejs. Currently supporting:
 
 - Guess the language of a phrase
 - Fast levenshtein distance of two strings
